@@ -1,5 +1,7 @@
 ### Hi there 👋
 
-Hello. I am a Full Stack Developer with over 5.5 years of experience. Hands on experience on popular frameworks/tools including Rust, TypeScript, Node.js, NextJs, ReactJS etc. Familiar with Amazon web services, container services, microservices and other industrial standards. Using agile methodology for project delivery.
+Hello, my name is Ken Yip, and I am a highly experienced Full Stack Developer with over 5.5 years of experience in the field. I am proficient in various popular frameworks and tools, including Rust, TypeScript, Node.js, NextJs, and ReactJS. Additionally, I have hands-on experience with Amazon web services, container services, and microservices and an understanding of industry standards.
 
-I am always looking for new challenges and keep improving myself.
+I am well-versed in agile methodology and have a proven track record of delivering projects on time and to the highest standards.
+
+I am a problem solver and quick learner, always looking for new challenges and opportunities to improve my skills!
